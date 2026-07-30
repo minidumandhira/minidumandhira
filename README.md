@@ -16,7 +16,8 @@ Passionate about Machine Learning, Artificial Intelligence, Data Analytics and F
 
 ##  About Me
 
- BSc (Hons) in Computer Science  
+ BSc (Hons) in Computer Science ,
+ Faculty of Computing & Technology,
  University of Kelaniya, Sri Lanka
 
 🔍 Currently seeking a **Data Science / Machine Learning Internship**
