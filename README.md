@@ -110,15 +110,17 @@ Passionate about Machine Learning, Artificial Intelligence, Data Analytics and F
 
 ## 📫 Connect With Me
 
-📧 **minidumandhira02@gmail.com**
+<a href="mailto:minidumandhira02@gmail.com" target="blank">
+  <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="minidumandhira02@gmail.com" height="30" width="40" />
+</a>
 
-💼 LinkedIn
+<a href="https://www.linkedin.com/in/minidu-mandhira/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minidu-mandhira" height="30" width="40" />
+</a>
 
-https://www.linkedin.com/in/minidu-mandhira-313236293
-
-🌐 GitHub
-
-https://github.com/minidumandhira
+<a href="https://github.com/minidumandhira" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="minidumandhira" height="30" width="40" />
+</a>
 
 ---
 
