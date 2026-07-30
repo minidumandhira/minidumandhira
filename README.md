@@ -95,7 +95,7 @@ Passionate about Machine Learning, Artificial Intelligence, Data Analytics and F
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Docker](https://skillicons.dev/icons?i=docker)
-![Jupyter](https://skillicons.dev/icons?i=github)
+![Jupyter](https://skillicons.dev/icons?i=jupyter)
 
 ---
 
