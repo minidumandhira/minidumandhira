@@ -42,7 +42,10 @@ ___
 
 
 
-## By the way here are some of my statistics 🚀
-![minidumandhira's github stats](https://github-readme-stats.vercel.app/api?username=minidumandhira&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=minidumandhira&theme=tokyonight" alt="mystreak"/>
-![minidumandhira's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minidumandhira&theme=tokyonight&layout=compact)
+## 📉 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minidumandhira&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=minidumandhira&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minidumandhira&layout=compact&theme=tokyonight)
