@@ -10,7 +10,7 @@
 ___
 
 ## ABOUT ME
-- 🌱 I’m currently learning **java**
+-  I'm currently seeking a Data Science or Software Engineering Internship to apply my skills and gain hands-on industry experience.
 
 - 📫 How to reach me **minidumandhira02@gmail.com**
 
