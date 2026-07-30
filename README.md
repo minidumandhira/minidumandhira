@@ -16,7 +16,6 @@ ___
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/m_i_n_i_d_u_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_i_n_i_d_u_" height="30" width="40" /></a>
  <a href="www.linkedin.com/in/minidu-mandhira-313236293" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YOUR-LINKEDIN-USERNAME" height="30" width="40" />
 </a>
